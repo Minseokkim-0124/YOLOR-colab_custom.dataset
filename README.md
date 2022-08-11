@@ -1,6 +1,6 @@
 # YOLOR
 
-You can us YOLOR_colab_ver (1).ipynb to train your own custom dataset by YOLOR
+You can use YOLOR_colab_ver (1).ipynb file to train your own custom dataset by YOLOR
 
 implementation of paper - [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/abs/2105.04206)
 
